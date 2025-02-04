@@ -1,8 +1,10 @@
 <h1>🌟 Página Moderna de Login</h1>
 <br>
 <p>"Este projeto apresenta uma tela de login moderna e interativa, desenvolvida com HTML5, CSS3 e JavaScript, combinando design responsivo, animações suaves e efeitos de transição para uma experiência de usuário sofisticada."/>
-
+<br>
+<br>
 📌 Como Usar
+<br>
 <br>
 Acesse a página inicial
 Preencha seus dados para criar uma conta
